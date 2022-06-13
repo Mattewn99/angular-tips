@@ -9,3 +9,9 @@
 ### Routing 🚦
 
 - [Dynamic Page Title](https://github.com/Mattewn99/angular-tips/tree/routing/dynamic-page-title)
+
+---
+
+### RxJs 😵‍💫
+
+- [DistinctUntilChanged Custom Comparison](https://github.com/Mattewn99/angular-tips/tree/rxjs/distinct-until-changed-custom)
